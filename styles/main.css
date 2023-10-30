@@ -62,9 +62,13 @@ main {
 }
 main h1 {
 	font-size: 150%;
+	text-align: center;
 	padding: .3em 0;
 	border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
+	box-shadow: 2px 2px #000000;
+	border-style: double;
+	border-radius: 10px;
 }
 main h2 {
 	color: var(--global-color-1);
